@@ -123,7 +123,7 @@ const Profile = () => {
         title="My Profile"
         description="Manage your account settings, orders, and personal information."
         keywords="profile, account settings, my account, user profile"
-        url="https://yourwebsite.com/profile"
+        url="https://yourstyle-pied.vercel.app/profile"
       />
 
       <div className="max-w-2xl mx-auto">

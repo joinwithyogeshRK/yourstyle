@@ -87,7 +87,7 @@ const Signup = () => {
         title="Sign Up"
         description="Create a new account and start shopping today. Fast registration, secure checkout."
         keywords="sign up, register, create account, new account"
-        url="https://yourwebsite.com/signup"
+        url="https://yourstyle-pied.vercel.app/signup"
       />
 
       <div className="w-full max-w-md">

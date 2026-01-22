@@ -13,8 +13,8 @@ export const SEO = ({
   title,
   description,
   keywords = "website builder, AI, web design",
-  image = "https://yourwebsite.com/og-image.jpg",
-  url = "https://yourwebsite.com",
+  image = "https://yourstyle-pied.vercel.app/og-image.jpg",
+  url = "https://yourstyle-pied.vercel.app",
   type = "website",
 }: SEOProps) => {
   const fullTitle = `${title} | StyleHub`;

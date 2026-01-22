@@ -105,7 +105,7 @@ const Cart = () => {
         title="Shopping Cart"
         description="Review your shopping cart and proceed to checkout. Secure payment, fast delivery."
         keywords="shopping cart, checkout, buy now, cart items"
-        url="https://yourwebsite.com/cart"
+        url="https://yourstyle-pied.vercel.app/cart"
       />
 
       {/* Header */}

@@ -65,7 +65,7 @@ const Login = () => {
         title="Login"
         description="Sign in to your account to access your dashboard, orders, and saved items."
         keywords="login, sign in, user login, account access"
-        url="https://yourwebsite.com/login"
+        url="https://yourstyle-pied.vercel.app/login"
       />
 
       <div className="w-full max-w-md">

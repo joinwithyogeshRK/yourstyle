@@ -18,7 +18,7 @@ const NotFound = () => {
         title="Page Not Found"
         description="Sorry, the page you're looking for doesn't exist. Return to homepage or browse our shop."
         keywords="404, page not found, error"
-        url="https://yourwebsite.com/404"
+        url="https://yourstyle-pied.vercel.app/404"
       />
 
       <div className="text-center">

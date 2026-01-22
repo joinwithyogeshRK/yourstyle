@@ -104,7 +104,7 @@ const Dashboard = () => {
           title="Dashboard - StyleHub"
           description="Your personal dashboard - track orders, manage settings, and view analytics."
           keywords="dashboard, user dashboard, account overview, my orders"
-          url="https://yourwebsite.com/dashboard"
+          url="https://yourstyle-pied.vercel.app/dashboard"
         />
 
         <div className="animate-pulse space-y-6">
